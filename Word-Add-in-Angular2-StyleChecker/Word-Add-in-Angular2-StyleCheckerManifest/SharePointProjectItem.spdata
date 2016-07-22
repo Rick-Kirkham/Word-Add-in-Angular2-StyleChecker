@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.OfficeApp" DefaultFile="Word-Add-in-Angular2-StyleChecker.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Word-Add-in-Angular2-StyleChecker.xml" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="OfficeAppManifestRelativePath" Value="Word-Add-in-Angular2-StyleCheckerManifest\Word-Add-in-Angular2-StyleChecker.xml" />
+  </ExtensionData>
+</ProjectItem>

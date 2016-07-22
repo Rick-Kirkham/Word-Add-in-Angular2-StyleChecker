@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Word-Add-in-Angular2-StyleCheckerManifest.xml
+D:\repos\Word-Add-in-Angular2-StyleChecker\Word-Add-in-Angular2-StyleChecker\bin\Debug\Word-Add-in-Angular2-StyleChecker.debugapp

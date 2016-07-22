@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SharePointSiteUrl>https://microsoft.sharepoint.com/teams/brandCentral/</SharePointSiteUrl>
+    <GeneratedFeatureId>5eed41b9-6a93-4af3-b4f8-bae00bf6105d</GeneratedFeatureId>
+    <GeneratedPackageId>94b58b33-7322-4547-9b3d-e79a30fcbdc6</GeneratedPackageId>
+    <GeneratedModuleId>{816b605e-bc2e-45d5-b66c-ffdeb6345fcd}</GeneratedModuleId>
+    <GeneratedListId>{f7722f8d-26a6-4ff4-8b91-718c46197c98}</GeneratedListId>
+    <GeneratedProductId>{b33c292f-7bd4-4706-9b06-cbee636f3630}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>94Bq2cilmikB9cUVhf/+QWYFCMhKf3MaZQcfqcUjXTs=</GeneratedClientSecret>
+  </PropertyGroup>
+</Project>
